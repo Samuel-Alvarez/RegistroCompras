@@ -1,0 +1,68 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RegistroCompras
+build_property.RootNamespace = RegistroCompras
+build_property.ProjectDir = C:\Users\Samuel A. Álvarez\Desktop\Prog Aplicada1\RegistroCompras\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Samuel A. Álvarez\Desktop\Prog Aplicada1\RegistroCompras
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Samuel A. Álvarez/Desktop/Prog Aplicada1/RegistroCompras/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel A. Álvarez/Desktop/Prog Aplicada1/RegistroCompras/Pages/Consultas/C_Compras.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc3VsdGFzXENfQ29tcHJhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel A. Álvarez/Desktop/Prog Aplicada1/RegistroCompras/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel A. Álvarez/Desktop/Prog Aplicada1/RegistroCompras/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel A. Álvarez/Desktop/Prog Aplicada1/RegistroCompras/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel A. Álvarez/Desktop/Prog Aplicada1/RegistroCompras/Pages/Registro/R_Compras.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0cm9cUl9Db21wcmFzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel A. Álvarez/Desktop/Prog Aplicada1/RegistroCompras/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel A. Álvarez/Desktop/Prog Aplicada1/RegistroCompras/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel A. Álvarez/Desktop/Prog Aplicada1/RegistroCompras/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-9b9v6pilhj
+
+[C:/Users/Samuel A. Álvarez/Desktop/Prog Aplicada1/RegistroCompras/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-7p7dkaot7u
+
+[C:/Users/Samuel A. Álvarez/Desktop/Prog Aplicada1/RegistroCompras/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel A. Álvarez/Desktop/Prog Aplicada1/RegistroCompras/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Samuel A. Álvarez/Desktop/Prog Aplicada1/RegistroCompras/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
